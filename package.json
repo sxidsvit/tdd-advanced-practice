@@ -1,0 +1,24 @@
+{
+  "name": "tdd-advanced-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sxidsvit/tdd-advanced-practice"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sxidsvit/tdd-advanced-practice/issues"
+  },
+  "homepage": "https://github.com/sxidsvit/tdd-advanced-practice/issues#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.7",
+    "jest": "^26.1.0"
+  }
+}
